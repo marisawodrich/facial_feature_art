@@ -4,7 +4,7 @@ Marisa Wodrich
 This repository contains all the code I wrote for my Bachelor's thesis. 
 
 ## Interactive website 
-* link to the website: https://marisawodrich.github.io/facial-feature-art/
+* link to the website: https://marisawodrich.github.io/facial_feature_art/
 * On the website, the user can create an abstract portrait. For that, they can choose between several images, how many lines the portrait will have, how thick those lines are, how long they can be and the color of them. The user can push a button to start the drawing process.
 
 ## code structure
